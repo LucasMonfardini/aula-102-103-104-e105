@@ -1,0 +1,30 @@
+body 
+{
+    color: azure;
+    background:rgb(255, 196, 0) ;
+}
+
+
+  
+  .heading 
+  {
+    width: 80%;
+    font-size: 25px;
+  }
+ 
+    
+  
+  .nameOfObjects, #resultObjectName, #resultObjectAccuracy 
+  {
+    color: black;
+  } 
+
+
+
+  #camera 
+  {
+    border: 2px ridge red;
+    width:350px;
+    height:300px;
+  }
+
